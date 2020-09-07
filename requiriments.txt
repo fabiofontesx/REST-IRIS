@@ -1,0 +1,6 @@
+pandas
+sklearn
+tensorflow
+keras
+flask
+flask-restx

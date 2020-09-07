@@ -1,0 +1,6 @@
+ignore
+venv
+*.h5
+*.json
+*.xml
+*.iml
